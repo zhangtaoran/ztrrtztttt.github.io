@@ -3,47 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://taoranzhang.com/tags/cv/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/tags/motion-planning/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/projects/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/tags/python/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/tags/ros/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/projects/sawyer-picks-objects/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/tags/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/</loc>
+    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://taoranzhang.com/tags/ai/</loc>
     <lastmod>2020-03-24T00:11:23-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://taoranzhang.com/projects/baxter-checkers/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/tags/cv/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/tags/motion-planning/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/projects/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/tags/python/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/tags/ros/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/tags/</loc>
-    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/</loc>
     <lastmod>2020-03-24T00:11:23-05:00</lastmod>
   </url>
   

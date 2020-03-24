@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Taoran Zhang - All rights reserved</copyright>
-    <lastBuildDate>Tue, 24 Mar 2020 00:11:23 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 17:28:39 -0500</lastBuildDate>
     
 	<atom:link href="https://taoranzhang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AI</title>
-      <link>https://taoranzhang.com/tags/ai/</link>
-      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
-      
-      <guid>https://taoranzhang.com/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CV</title>
       <link>https://taoranzhang.com/tags/cv/</link>
-      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
+      <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
       
       <guid>https://taoranzhang.com/tags/cv/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>motion planning</title>
       <link>https://taoranzhang.com/tags/motion-planning/</link>
-      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
+      <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
       
       <guid>https://taoranzhang.com/tags/motion-planning/</guid>
       <description></description>
@@ -42,7 +33,7 @@
     <item>
       <title>python</title>
       <link>https://taoranzhang.com/tags/python/</link>
-      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
+      <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
       
       <guid>https://taoranzhang.com/tags/python/</guid>
       <description></description>
@@ -51,9 +42,18 @@
     <item>
       <title>ROS</title>
       <link>https://taoranzhang.com/tags/ros/</link>
-      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
+      <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
       
       <guid>https://taoranzhang.com/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://taoranzhang.com/tags/ai/</link>
+      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/ai/</guid>
       <description></description>
     </item>
     
