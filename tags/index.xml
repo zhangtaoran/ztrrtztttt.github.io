@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>motion planning</title>
-      <link>https://taoranzhang.com/tags/motion-planning/</link>
-      <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
-      
-      <guid>https://taoranzhang.com/tags/motion-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>python</title>
       <link>https://taoranzhang.com/tags/python/</link>
       <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
@@ -54,6 +45,15 @@
       <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
       
       <guid>https://taoranzhang.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motion planning</title>
+      <link>https://taoranzhang.com/tags/motion-planning/</link>
+      <pubDate>Tue, 24 Mar 2020 00:11:23 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/motion-planning/</guid>
       <description></description>
     </item>
     

@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>Sawyer Picks Objects</title>
+      <title>Depth from Stereo</title>
       <link>https://taoranzhang.com/projects/sawyer-picks-objects/</link>
       <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
       
       <guid>https://taoranzhang.com/projects/sawyer-picks-objects/</guid>
-      <description>For more info, please visit my git repo at https://github.com/ztrrtztttt/sawyer-picks-objects</description>
+      <description>This is a demo of generating disparity map from stereo!
+For more info, please visit my git repo at https://github.com/ztrrtztttt/sawyer-picks-objects</description>
     </item>
     
     <item>

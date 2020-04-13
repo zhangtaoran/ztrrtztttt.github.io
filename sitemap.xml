@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>https://taoranzhang.com/tags/motion-planning/</loc>
+    <loc>https://taoranzhang.com/projects/sawyer-picks-objects/</loc>
     <lastmod>2020-03-24T17:28:39-05:00</lastmod>
   </url>
   
@@ -24,11 +24,6 @@
   
   <url>
     <loc>https://taoranzhang.com/tags/ros/</loc>
-    <lastmod>2020-03-24T17:28:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://taoranzhang.com/projects/sawyer-picks-objects/</loc>
     <lastmod>2020-03-24T17:28:39-05:00</lastmod>
   </url>
   
@@ -49,6 +44,11 @@
   
   <url>
     <loc>https://taoranzhang.com/projects/baxter-checkers/</loc>
+    <lastmod>2020-03-24T00:11:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taoranzhang.com/tags/motion-planning/</loc>
     <lastmod>2020-03-24T00:11:23-05:00</lastmod>
   </url>
   
