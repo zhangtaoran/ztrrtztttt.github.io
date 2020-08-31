@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAD on Welcome!</title>
+    <link>https://taoranzhang.com/tags/cad/</link>
+    <description>Recent content in CAD on Welcome!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Taoran Zhang - All rights reserved</copyright>
+    <lastBuildDate>Mon, 31 Aug 2020 16:15:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://taoranzhang.com/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Hyperspectral Filter Wheel</title>
+      <link>https://taoranzhang.com/projects/automated-hyperspectral-filter-wheel/</link>
+      <pubDate>Mon, 31 Aug 2020 16:15:15 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/projects/automated-hyperspectral-filter-wheel/</guid>
+      <description>This is the demo of the automated hyperspectral filter wheel!
+Hyperspectral imaging is used in many different areas, like art obeservation and argricultrual inspection.</description>
+    </item>
+    
+  </channel>
+</rss>

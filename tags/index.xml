@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Taoran Zhang - All rights reserved</copyright>
-    <lastBuildDate>Tue, 24 Mar 2020 17:28:39 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 16:15:15 -0500</lastBuildDate>
     
 	<atom:link href="https://taoranzhang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CAD</title>
+      <link>https://taoranzhang.com/tags/cad/</link>
+      <pubDate>Mon, 31 Aug 2020 16:15:15 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/cad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jupyter notebook</title>
+      <link>https://taoranzhang.com/tags/jupyter-notebook/</link>
+      <pubDate>Mon, 31 Aug 2020 16:15:15 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mechatronics</title>
+      <link>https://taoranzhang.com/tags/mechatronics/</link>
+      <pubDate>Mon, 31 Aug 2020 16:15:15 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/mechatronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optics</title>
+      <link>https://taoranzhang.com/tags/optics/</link>
+      <pubDate>Mon, 31 Aug 2020 16:15:15 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/optics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://taoranzhang.com/tags/python/</link>
+      <pubDate>Mon, 31 Aug 2020 16:15:15 -0500</pubDate>
+      
+      <guid>https://taoranzhang.com/tags/python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CV</title>
@@ -18,15 +63,6 @@
       <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
       
       <guid>https://taoranzhang.com/tags/cv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://taoranzhang.com/tags/python/</link>
-      <pubDate>Tue, 24 Mar 2020 17:28:39 -0500</pubDate>
-      
-      <guid>https://taoranzhang.com/tags/python/</guid>
       <description></description>
     </item>
     
